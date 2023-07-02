@@ -1,7 +1,7 @@
 # HZAU_ComprehensiveTraining2023_ELFParser
 ## 《综合实训》项目——实现一个ELF文件解析器
 本项目是HZAU_CS2020级的《综合实训》项目<br>
-ELFParser文件夹中的仅为源代码；other文件夹中包含学习资料和源代码+测试代码，仅供参考。<br>
+ELFParser文件夹中的仅为源代码；other文件夹中包含源代码+测试代码，仅供参考。<br>
 
 已实现的ELF解析器的命令选项包括：<br>
 **-h、-l、-S、-t、-s、-r、-d、-x、-I、-H**等10个。<br>
